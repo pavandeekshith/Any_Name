@@ -1,3 +1,9 @@
+"""
+This module provides functions to generate a Fibonacci sequence
+and check if a number is prime. It also includes a main function
+for user interaction to display results.
+"""
+
 def fibonacci(n):
     """Generate Fibonacci sequence up to the nth number."""
     sequence = []
